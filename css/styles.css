@@ -1,0 +1,128 @@
+body{
+  background-color: #393e46;
+  font-family: "Montserrat";
+  color: #fff;
+}
+
+/*                                     index                                  */
+
+
+/* navbar */
+
+#title{
+  background-color: #8f8f8f;
+  font-family: "ubuntu";
+}
+.links{
+  padding: 0 2rem;
+}
+
+/* corousel */
+
+.img{
+  height: 500px;
+  width: 100%;
+}
+
+/* movie list */
+
+.container{
+  margin: 10px auto;
+  text-align: center;
+
+}
+.card-title{
+  color: #f2a365;
+}
+
+.card-body{
+  background-color: #525252;
+
+}
+#movie-list{
+  margin-top: 5%;
+}
+.rule-tab{
+  background-color: #525252;
+  text-align: left;
+}
+
+.movie{
+  height: 750px;
+}
+
+/* footer */
+
+.footer{
+  background-color: #000;
+  text-align: center;
+
+  padding: 10px;
+}
+
+
+/*.......................... booking page.................................. */
+
+.main-body{
+  margin:50px;
+}
+
+.poster-pic{
+  width: 1400px;
+  height: 500px;
+
+}
+
+
+.movie-head{
+  color: #f2a365;
+}
+.dates{
+
+  padding-top: 1rem;
+}
+.theatre-body{
+  padding-top: 100px;
+}
+.theatre-item{
+  margin-top: 50px;
+    margin-left: 50px;
+    padding: 40px;
+  border: 4px solid #fff;
+  border-radius: 5px;
+}
+.shows{
+  padding: 40px ;
+}
+
+
+/* ...........................login....................................... */
+
+.login-deck{
+  width: 400px;
+  background-color: #8f8f8f ;
+  position: relative;
+  margin: 150px auto 0;
+  padding: 40px 20px;
+  border-radius: 5px;
+
+}
+
+.icon{
+  padding-bottom: 20px;
+
+}
+
+/* ..........................sign-up.................................... */
+
+.register-form{
+  text-align: left;
+
+
+
+}
+
+.register-link{
+  color: #3b6978;
+  text-decoration: underline;
+}
